@@ -1,12 +1,12 @@
 {
-  "name": "RFKJ Base Token",
-  "logoURI": "https://ethereum-optimism.github.io/optimism.svg",
+  "name": "RFKJ Token",
+  "logoURI": "https://ipfs.io/ipfs/QmT3hfVNRXY3hRQjAkqLuzczoYUHqJAZe5kk8Z3niqr6gu",
   "keywords": [
     "scaling",
     "layer2",
     "infrastructure"
   ],
-  "timestamp": "2024-04-02T19:25:45.185Z",
+  "timestamp": "2024-04-10T19:25:45.185Z",
   "tokens": [
     {
       "chainId":1,
@@ -38,8 +38,8 @@
     },
   ],
   "version": {
-    "major": 10,
+    "major": 1,
     "minor": 0,
-    "patch": 19
+    "patch": 0
   }
 }
