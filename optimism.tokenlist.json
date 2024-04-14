@@ -15,7 +15,7 @@
       "symbol":"RFKJ",
       "decimals":18,
       "logoURI":"https://ipfs.io/ipfs/QmT3hfVNRXY3hRQjAkqLuzczoYUHqJAZe5kk8Z3niqr6gu",
-      "opTokenId":"RFKJ",
+      "opTokenId":"RFKJLegacy",
       "extensions":{
         "baseBridgeAddress":"0x3154Cf16ccdb4C6d922629664174b904d80F2C35",
         "opListId":"extended",
@@ -24,12 +24,12 @@
     },
     {
       "chainId":8453,
-      "address":"0x54a65B16D18527160FAFC6FCfEBAeD47c2976dfA",
+      "address":"0x00854F87a6A5f362580E4f83787c9B658e4C25D0",
       "name":"The Independence Token",
       "symbol":"RFKJ",
       "decimals":18,
       "logoURI":"https://ipfs.io/ipfs/QmT3hfVNRXY3hRQjAkqLuzczoYUHqJAZe5kk8Z3niqr6gu",
-      "opTokenId":"RFKJ",
+      "opTokenId":"RFKJLegacy",
       "extensions":{
         "baseBridgeAddress":"0x4200000000000000000000000000000000000010",
         "opListId":"extended",
